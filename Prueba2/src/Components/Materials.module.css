@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css2?family=Kdam+Thmor+Pro&display=swap');
+
+ .body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 70vh;
+    width: 100%;
+    box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.4);
+ }
+
+ .image {
+    object-fit: cover;
+    width: 100%;
+    height: 70vh;
+    position: absolute;
+    z-index: -1;
+  }
+
+ .input {
+  color: rgb(251, 251, 251);
+    margin-top: 8%;
+    font-size: 18px;
+    background-color: #212121;
+    height: 30px;
+    padding: 10px;
+    border: 2px solid white;
+    border-radius: 5px;
+    width: 800px;
+  }
+  
+  .input:focus {
+    color: rgb(251, 251, 251);
+    background-color: #212121;
+    outline-color: rgb(0, 19, 230);
+    box-shadow: -3px -3px 15px rgb(1, 30, 223);
+    transition: .1s;
+    transition-property: box-shadow;
+  }
+
+  .button {
+    text-align: center;
+    margin-top: 80px;
+    cursor: pointer;
+    font-family: 'Kdam Thmor Pro', sans-serif;
+    margin-left: 2px;
+    width: 200px;
+    height: 54px;
+    padding: 15px 25px;
+    border: unset;
+    border-radius: 15px;
+    color: #212121;
+    z-index: 1;
+    background: #e8e8e8;
+    position: relative;
+    font-weight: 1000;
+    font-size: 17px;
+    -webkit-box-shadow: 4px 8px 19px -3px rgba(0, 0, 0, 0.27);
+    box-shadow: 4px 8px 19px -3px rgba(0,0,0,0.27);
+    transition: all 250ms;
+    overflow: hidden;
+   }
+   
+   .button::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 0;
+    border-radius: 15px;
+    background-color: #000000;
+    z-index: -1;
+    -webkit-box-shadow: 4px 8px 19px -3px rgba(0,0,0,0.27);
+    box-shadow: 4px 8px 19px -3px rgba(0,0,0,0.27);
+    transition: all 250ms
+   }
+   
+   .button:hover {
+    color: #e8e8e8;
+   }
+   
+   .button:hover::before {
+    width: 100%;
+   }
+
+   .table {
+    padding-top: 4%;
+   }
+
+
+
+   @media screen and (max-width: 960px) {
+
+    .body {
+      text-align: center;
+      justify-content: center;
+      align-items: center;
+    }
+
+    .input {
+        width: 450px;
+      }
+
+      .table {
+        width: 480px;
+      }
+
+
+   }

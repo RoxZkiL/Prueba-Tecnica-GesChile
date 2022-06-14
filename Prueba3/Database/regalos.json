@@ -1,0 +1,3002 @@
+[
+	{
+		"gifter": 87,
+		"book": 395,
+		"gifted": 90,
+		"date": "11/06/2021"
+	},
+	{
+		"gifter": 154,
+		"book": 123,
+		"gifted": 370,
+		"date": "11/09/2020"
+	},
+	{
+		"gifter": 256,
+		"book": 291,
+		"gifted": 188,
+		"date": "19/03/2022"
+	},
+	{
+		"gifter": 67,
+		"book": 379,
+		"gifted": 241,
+		"date": "23/03/2020"
+	},
+	{
+		"gifter": 331,
+		"book": 353,
+		"gifted": 461,
+		"date": "01/11/2019"
+	},
+	{
+		"gifter": 484,
+		"book": 374,
+		"gifted": 387,
+		"date": "04/01/2021"
+	},
+	{
+		"gifter": 356,
+		"book": 247,
+		"gifted": 415,
+		"date": "25/09/2022"
+	},
+	{
+		"gifter": 359,
+		"book": 210,
+		"gifted": 194,
+		"date": "05/02/2020"
+	},
+	{
+		"gifter": 325,
+		"book": 312,
+		"gifted": 358,
+		"date": "05/04/2020"
+	},
+	{
+		"gifter": 92,
+		"book": 102,
+		"gifted": 87,
+		"date": "09/10/2019"
+	},
+	{
+		"gifter": 287,
+		"book": 500,
+		"gifted": 447,
+		"date": "10/09/2019"
+	},
+	{
+		"gifter": 248,
+		"book": 74,
+		"gifted": 377,
+		"date": "03/03/2021"
+	},
+	{
+		"gifter": 224,
+		"book": 465,
+		"gifted": 338,
+		"date": "19/01/2023"
+	},
+	{
+		"gifter": 481,
+		"book": 200,
+		"gifted": 76,
+		"date": "10/07/2021"
+	},
+	{
+		"gifter": 312,
+		"book": 416,
+		"gifted": 431,
+		"date": "04/04/2021"
+	},
+	{
+		"gifter": 51,
+		"book": 386,
+		"gifted": 192,
+		"date": "28/04/2021"
+	},
+	{
+		"gifter": 84,
+		"book": 434,
+		"gifted": 466,
+		"date": "01/05/2020"
+	},
+	{
+		"gifter": 310,
+		"book": 473,
+		"gifted": 18,
+		"date": "27/03/2021"
+	},
+	{
+		"gifter": 412,
+		"book": 121,
+		"gifted": 171,
+		"date": "01/11/2021"
+	},
+	{
+		"gifter": 430,
+		"book": 379,
+		"gifted": 260,
+		"date": "07/09/2020"
+	},
+	{
+		"gifter": 51,
+		"book": 274,
+		"gifted": 116,
+		"date": "20/08/2022"
+	},
+	{
+		"gifter": 221,
+		"book": 218,
+		"gifted": 14,
+		"date": "20/10/2019"
+	},
+	{
+		"gifter": 83,
+		"book": 279,
+		"gifted": 276,
+		"date": "30/04/2021"
+	},
+	{
+		"gifter": 291,
+		"book": 86,
+		"gifted": 4,
+		"date": "18/04/2022"
+	},
+	{
+		"gifter": 250,
+		"book": 470,
+		"gifted": 64,
+		"date": "07/07/2021"
+	},
+	{
+		"gifter": 288,
+		"book": 486,
+		"gifted": 315,
+		"date": "09/09/2022"
+	},
+	{
+		"gifter": 18,
+		"book": 86,
+		"gifted": 340,
+		"date": "07/11/2022"
+	},
+	{
+		"gifter": 136,
+		"book": 496,
+		"gifted": 250,
+		"date": "19/08/2021"
+	},
+	{
+		"gifter": 460,
+		"book": 483,
+		"gifted": 41,
+		"date": "11/12/2020"
+	},
+	{
+		"gifter": 195,
+		"book": 88,
+		"gifted": 369,
+		"date": "21/10/2021"
+	},
+	{
+		"gifter": 20,
+		"book": 292,
+		"gifted": 97,
+		"date": "07/03/2021"
+	},
+	{
+		"gifter": 15,
+		"book": 320,
+		"gifted": 367,
+		"date": "28/03/2020"
+	},
+	{
+		"gifter": 427,
+		"book": 247,
+		"gifted": 244,
+		"date": "18/03/2022"
+	},
+	{
+		"gifter": 182,
+		"book": 365,
+		"gifted": 16,
+		"date": "30/01/2021"
+	},
+	{
+		"gifter": 478,
+		"book": 308,
+		"gifted": 486,
+		"date": "02/04/2022"
+	},
+	{
+		"gifter": 241,
+		"book": 47,
+		"gifted": 442,
+		"date": "19/01/2021"
+	},
+	{
+		"gifter": 43,
+		"book": 254,
+		"gifted": 358,
+		"date": "14/02/2023"
+	},
+	{
+		"gifter": 419,
+		"book": 198,
+		"gifted": 17,
+		"date": "05/03/2023"
+	},
+	{
+		"gifter": 212,
+		"book": 307,
+		"gifted": 419,
+		"date": "19/11/2021"
+	},
+	{
+		"gifter": 65,
+		"book": 210,
+		"gifted": 108,
+		"date": "11/10/2022"
+	},
+	{
+		"gifter": 117,
+		"book": 273,
+		"gifted": 313,
+		"date": "07/11/2020"
+	},
+	{
+		"gifter": 485,
+		"book": 468,
+		"gifted": 463,
+		"date": "30/08/2020"
+	},
+	{
+		"gifter": 77,
+		"book": 320,
+		"gifted": 249,
+		"date": "02/04/2022"
+	},
+	{
+		"gifter": 172,
+		"book": 332,
+		"gifted": 426,
+		"date": "25/03/2021"
+	},
+	{
+		"gifter": 87,
+		"book": 113,
+		"gifted": 210,
+		"date": "27/08/2020"
+	},
+	{
+		"gifter": 153,
+		"book": 354,
+		"gifted": 46,
+		"date": "26/03/2020"
+	},
+	{
+		"gifter": 204,
+		"book": 98,
+		"gifted": 193,
+		"date": "25/08/2021"
+	},
+	{
+		"gifter": 136,
+		"book": 41,
+		"gifted": 180,
+		"date": "10/10/2022"
+	},
+	{
+		"gifter": 316,
+		"book": 322,
+		"gifted": 120,
+		"date": "25/02/2020"
+	},
+	{
+		"gifter": 39,
+		"book": 73,
+		"gifted": 41,
+		"date": "01/11/2019"
+	},
+	{
+		"gifter": 28,
+		"book": 89,
+		"gifted": 170,
+		"date": "31/07/2019"
+	},
+	{
+		"gifter": 155,
+		"book": 117,
+		"gifted": 331,
+		"date": "24/07/2020"
+	},
+	{
+		"gifter": 55,
+		"book": 202,
+		"gifted": 246,
+		"date": "08/11/2022"
+	},
+	{
+		"gifter": 347,
+		"book": 251,
+		"gifted": 430,
+		"date": "09/11/2020"
+	},
+	{
+		"gifter": 51,
+		"book": 29,
+		"gifted": 274,
+		"date": "14/06/2021"
+	},
+	{
+		"gifter": 42,
+		"book": 418,
+		"gifted": 145,
+		"date": "28/11/2020"
+	},
+	{
+		"gifter": 351,
+		"book": 95,
+		"gifted": 437,
+		"date": "03/06/2022"
+	},
+	{
+		"gifter": 392,
+		"book": 407,
+		"gifted": 160,
+		"date": "11/12/2021"
+	},
+	{
+		"gifter": 175,
+		"book": 437,
+		"gifted": 130,
+		"date": "12/04/2023"
+	},
+	{
+		"gifter": 70,
+		"book": 169,
+		"gifted": 142,
+		"date": "10/06/2022"
+	},
+	{
+		"gifter": 199,
+		"book": 119,
+		"gifted": 467,
+		"date": "03/06/2020"
+	},
+	{
+		"gifter": 71,
+		"book": 255,
+		"gifted": 130,
+		"date": "24/12/2020"
+	},
+	{
+		"gifter": 429,
+		"book": 365,
+		"gifted": 289,
+		"date": "17/04/2021"
+	},
+	{
+		"gifter": 287,
+		"book": 315,
+		"gifted": 425,
+		"date": "01/02/2023"
+	},
+	{
+		"gifter": 59,
+		"book": 396,
+		"gifted": 497,
+		"date": "13/10/2021"
+	},
+	{
+		"gifter": 50,
+		"book": 95,
+		"gifted": 174,
+		"date": "14/05/2021"
+	},
+	{
+		"gifter": 304,
+		"book": 490,
+		"gifted": 327,
+		"date": "08/11/2022"
+	},
+	{
+		"gifter": 243,
+		"book": 297,
+		"gifted": 283,
+		"date": "29/11/2020"
+	},
+	{
+		"gifter": 471,
+		"book": 73,
+		"gifted": 244,
+		"date": "09/02/2021"
+	},
+	{
+		"gifter": 491,
+		"book": 473,
+		"gifted": 357,
+		"date": "10/09/2022"
+	},
+	{
+		"gifter": 362,
+		"book": 70,
+		"gifted": 409,
+		"date": "08/08/2021"
+	},
+	{
+		"gifter": 296,
+		"book": 408,
+		"gifted": 37,
+		"date": "25/12/2021"
+	},
+	{
+		"gifter": 381,
+		"book": 346,
+		"gifted": 179,
+		"date": "11/03/2020"
+	},
+	{
+		"gifter": 416,
+		"book": 115,
+		"gifted": 217,
+		"date": "16/12/2019"
+	},
+	{
+		"gifter": 482,
+		"book": 85,
+		"gifted": 158,
+		"date": "22/09/2019"
+	},
+	{
+		"gifter": 379,
+		"book": 307,
+		"gifted": 376,
+		"date": "27/03/2020"
+	},
+	{
+		"gifter": 389,
+		"book": 277,
+		"gifted": 239,
+		"date": "10/02/2023"
+	},
+	{
+		"gifter": 394,
+		"book": 144,
+		"gifted": 298,
+		"date": "13/11/2019"
+	},
+	{
+		"gifter": 102,
+		"book": 262,
+		"gifted": 288,
+		"date": "25/11/2022"
+	},
+	{
+		"gifter": 233,
+		"book": 410,
+		"gifted": 38,
+		"date": "31/07/2019"
+	},
+	{
+		"gifter": 407,
+		"book": 462,
+		"gifted": 480,
+		"date": "09/09/2022"
+	},
+	{
+		"gifter": 217,
+		"book": 341,
+		"gifted": 55,
+		"date": "16/12/2020"
+	},
+	{
+		"gifter": 494,
+		"book": 451,
+		"gifted": 480,
+		"date": "16/06/2019"
+	},
+	{
+		"gifter": 4,
+		"book": 25,
+		"gifted": 181,
+		"date": "26/08/2019"
+	},
+	{
+		"gifter": 322,
+		"book": 214,
+		"gifted": 8,
+		"date": "13/01/2021"
+	},
+	{
+		"gifter": 277,
+		"book": 113,
+		"gifted": 481,
+		"date": "01/01/2022"
+	},
+	{
+		"gifter": 88,
+		"book": 435,
+		"gifted": 202,
+		"date": "03/12/2022"
+	},
+	{
+		"gifter": 403,
+		"book": 142,
+		"gifted": 80,
+		"date": "06/01/2023"
+	},
+	{
+		"gifter": 104,
+		"book": 359,
+		"gifted": 413,
+		"date": "01/06/2020"
+	},
+	{
+		"gifter": 10,
+		"book": 436,
+		"gifted": 311,
+		"date": "29/10/2019"
+	},
+	{
+		"gifter": 211,
+		"book": 69,
+		"gifted": 411,
+		"date": "05/10/2021"
+	},
+	{
+		"gifter": 338,
+		"book": 60,
+		"gifted": 279,
+		"date": "08/03/2021"
+	},
+	{
+		"gifter": 23,
+		"book": 368,
+		"gifted": 184,
+		"date": "24/03/2022"
+	},
+	{
+		"gifter": 148,
+		"book": 36,
+		"gifted": 105,
+		"date": "17/10/2022"
+	},
+	{
+		"gifter": 308,
+		"book": 371,
+		"gifted": 431,
+		"date": "02/01/2023"
+	},
+	{
+		"gifter": 16,
+		"book": 406,
+		"gifted": 288,
+		"date": "07/08/2021"
+	},
+	{
+		"gifter": 28,
+		"book": 212,
+		"gifted": 440,
+		"date": "27/06/2020"
+	},
+	{
+		"gifter": 85,
+		"book": 35,
+		"gifted": 177,
+		"date": "27/09/2019"
+	},
+	{
+		"gifter": 477,
+		"book": 493,
+		"gifted": 339,
+		"date": "23/12/2019"
+	},
+	{
+		"gifter": 80,
+		"book": 480,
+		"gifted": 490,
+		"date": "07/07/2021"
+	},
+	{
+		"gifter": 114,
+		"book": 302,
+		"gifted": 12,
+		"date": "16/01/2021"
+	},
+	{
+		"gifter": 307,
+		"book": 454,
+		"gifted": 378,
+		"date": "10/04/2022"
+	},
+	{
+		"gifter": 66,
+		"book": 10,
+		"gifted": 475,
+		"date": "17/11/2022"
+	},
+	{
+		"gifter": 182,
+		"book": 404,
+		"gifted": 335,
+		"date": "18/04/2023"
+	},
+	{
+		"gifter": 183,
+		"book": 438,
+		"gifted": 166,
+		"date": "17/01/2023"
+	},
+	{
+		"gifter": 239,
+		"book": 456,
+		"gifted": 451,
+		"date": "24/11/2022"
+	},
+	{
+		"gifter": 189,
+		"book": 373,
+		"gifted": 168,
+		"date": "28/04/2020"
+	},
+	{
+		"gifter": 462,
+		"book": 91,
+		"gifted": 306,
+		"date": "24/08/2019"
+	},
+	{
+		"gifter": 233,
+		"book": 439,
+		"gifted": 485,
+		"date": "10/12/2019"
+	},
+	{
+		"gifter": 265,
+		"book": 51,
+		"gifted": 397,
+		"date": "21/03/2020"
+	},
+	{
+		"gifter": 134,
+		"book": 86,
+		"gifted": 302,
+		"date": "10/08/2019"
+	},
+	{
+		"gifter": 101,
+		"book": 182,
+		"gifted": 479,
+		"date": "02/08/2021"
+	},
+	{
+		"gifter": 432,
+		"book": 498,
+		"gifted": 222,
+		"date": "28/03/2022"
+	},
+	{
+		"gifter": 220,
+		"book": 195,
+		"gifted": 217,
+		"date": "15/05/2022"
+	},
+	{
+		"gifter": 482,
+		"book": 115,
+		"gifted": 150,
+		"date": "10/11/2020"
+	},
+	{
+		"gifter": 419,
+		"book": 327,
+		"gifted": 346,
+		"date": "13/12/2020"
+	},
+	{
+		"gifter": 245,
+		"book": 43,
+		"gifted": 440,
+		"date": "17/10/2019"
+	},
+	{
+		"gifter": 431,
+		"book": 70,
+		"gifted": 369,
+		"date": "28/10/2019"
+	},
+	{
+		"gifter": 370,
+		"book": 296,
+		"gifted": 380,
+		"date": "01/12/2021"
+	},
+	{
+		"gifter": 473,
+		"book": 26,
+		"gifted": 81,
+		"date": "20/02/2023"
+	},
+	{
+		"gifter": 493,
+		"book": 310,
+		"gifted": 369,
+		"date": "18/07/2022"
+	},
+	{
+		"gifter": 354,
+		"book": 262,
+		"gifted": 180,
+		"date": "06/07/2022"
+	},
+	{
+		"gifter": 114,
+		"book": 395,
+		"gifted": 74,
+		"date": "23/06/2022"
+	},
+	{
+		"gifter": 476,
+		"book": 169,
+		"gifted": 51,
+		"date": "07/03/2022"
+	},
+	{
+		"gifter": 93,
+		"book": 128,
+		"gifted": 213,
+		"date": "28/11/2020"
+	},
+	{
+		"gifter": 343,
+		"book": 403,
+		"gifted": 404,
+		"date": "09/06/2019"
+	},
+	{
+		"gifter": 210,
+		"book": 180,
+		"gifted": 81,
+		"date": "11/11/2022"
+	},
+	{
+		"gifter": 138,
+		"book": 335,
+		"gifted": 171,
+		"date": "20/11/2019"
+	},
+	{
+		"gifter": 62,
+		"book": 222,
+		"gifted": 234,
+		"date": "13/10/2020"
+	},
+	{
+		"gifter": 67,
+		"book": 245,
+		"gifted": 410,
+		"date": "18/03/2021"
+	},
+	{
+		"gifter": 408,
+		"book": 232,
+		"gifted": 481,
+		"date": "02/03/2023"
+	},
+	{
+		"gifter": 97,
+		"book": 434,
+		"gifted": 260,
+		"date": "27/05/2019"
+	},
+	{
+		"gifter": 4,
+		"book": 353,
+		"gifted": 250,
+		"date": "09/05/2022"
+	},
+	{
+		"gifter": 99,
+		"book": 270,
+		"gifted": 463,
+		"date": "12/10/2020"
+	},
+	{
+		"gifter": 72,
+		"book": 136,
+		"gifted": 82,
+		"date": "24/07/2019"
+	},
+	{
+		"gifter": 438,
+		"book": 65,
+		"gifted": 186,
+		"date": "05/12/2021"
+	},
+	{
+		"gifter": 300,
+		"book": 178,
+		"gifted": 205,
+		"date": "22/12/2019"
+	},
+	{
+		"gifter": 277,
+		"book": 301,
+		"gifted": 424,
+		"date": "07/02/2022"
+	},
+	{
+		"gifter": 102,
+		"book": 444,
+		"gifted": 27,
+		"date": "20/07/2022"
+	},
+	{
+		"gifter": 329,
+		"book": 432,
+		"gifted": 447,
+		"date": "06/12/2021"
+	},
+	{
+		"gifter": 143,
+		"book": 318,
+		"gifted": 211,
+		"date": "10/11/2021"
+	},
+	{
+		"gifter": 141,
+		"book": 161,
+		"gifted": 222,
+		"date": "07/12/2021"
+	},
+	{
+		"gifter": 480,
+		"book": 225,
+		"gifted": 84,
+		"date": "21/06/2020"
+	},
+	{
+		"gifter": 259,
+		"book": 437,
+		"gifted": 121,
+		"date": "18/11/2022"
+	},
+	{
+		"gifter": 423,
+		"book": 457,
+		"gifted": 303,
+		"date": "20/02/2023"
+	},
+	{
+		"gifter": 23,
+		"book": 211,
+		"gifted": 460,
+		"date": "02/10/2022"
+	},
+	{
+		"gifter": 233,
+		"book": 456,
+		"gifted": 226,
+		"date": "09/07/2020"
+	},
+	{
+		"gifter": 271,
+		"book": 263,
+		"gifted": 342,
+		"date": "27/09/2022"
+	},
+	{
+		"gifter": 82,
+		"book": 470,
+		"gifted": 18,
+		"date": "13/07/2022"
+	},
+	{
+		"gifter": 129,
+		"book": 207,
+		"gifted": 68,
+		"date": "23/03/2021"
+	},
+	{
+		"gifter": 9,
+		"book": 421,
+		"gifted": 224,
+		"date": "11/02/2020"
+	},
+	{
+		"gifter": 184,
+		"book": 260,
+		"gifted": 476,
+		"date": "30/11/2020"
+	},
+	{
+		"gifter": 61,
+		"book": 437,
+		"gifted": 71,
+		"date": "17/10/2022"
+	},
+	{
+		"gifter": 76,
+		"book": 392,
+		"gifted": 466,
+		"date": "18/02/2022"
+	},
+	{
+		"gifter": 441,
+		"book": 231,
+		"gifted": 26,
+		"date": "04/03/2020"
+	},
+	{
+		"gifter": 158,
+		"book": 235,
+		"gifted": 100,
+		"date": "03/10/2019"
+	},
+	{
+		"gifter": 138,
+		"book": 48,
+		"gifted": 166,
+		"date": "23/05/2020"
+	},
+	{
+		"gifter": 495,
+		"book": 209,
+		"gifted": 298,
+		"date": "18/10/2021"
+	},
+	{
+		"gifter": 34,
+		"book": 458,
+		"gifted": 8,
+		"date": "06/07/2021"
+	},
+	{
+		"gifter": 40,
+		"book": 424,
+		"gifted": 61,
+		"date": "30/05/2019"
+	},
+	{
+		"gifter": 183,
+		"book": 25,
+		"gifted": 335,
+		"date": "06/08/2022"
+	},
+	{
+		"gifter": 255,
+		"book": 405,
+		"gifted": 380,
+		"date": "13/05/2022"
+	},
+	{
+		"gifter": 270,
+		"book": 308,
+		"gifted": 265,
+		"date": "08/11/2022"
+	},
+	{
+		"gifter": 73,
+		"book": 439,
+		"gifted": 419,
+		"date": "06/05/2021"
+	},
+	{
+		"gifter": 336,
+		"book": 409,
+		"gifted": 219,
+		"date": "21/12/2020"
+	},
+	{
+		"gifter": 347,
+		"book": 3,
+		"gifted": 141,
+		"date": "21/08/2021"
+	},
+	{
+		"gifter": 108,
+		"book": 269,
+		"gifted": 485,
+		"date": "28/01/2020"
+	},
+	{
+		"gifter": 333,
+		"book": 460,
+		"gifted": 168,
+		"date": "05/08/2019"
+	},
+	{
+		"gifter": 205,
+		"book": 262,
+		"gifted": 90,
+		"date": "08/06/2022"
+	},
+	{
+		"gifter": 26,
+		"book": 211,
+		"gifted": 309,
+		"date": "31/12/2021"
+	},
+	{
+		"gifter": 35,
+		"book": 226,
+		"gifted": 489,
+		"date": "04/11/2019"
+	},
+	{
+		"gifter": 38,
+		"book": 448,
+		"gifted": 299,
+		"date": "07/06/2022"
+	},
+	{
+		"gifter": 356,
+		"book": 215,
+		"gifted": 223,
+		"date": "12/01/2021"
+	},
+	{
+		"gifter": 316,
+		"book": 493,
+		"gifted": 117,
+		"date": "11/06/2022"
+	},
+	{
+		"gifter": 494,
+		"book": 450,
+		"gifted": 343,
+		"date": "25/04/2022"
+	},
+	{
+		"gifter": 295,
+		"book": 153,
+		"gifted": 233,
+		"date": "01/08/2021"
+	},
+	{
+		"gifter": 415,
+		"book": 185,
+		"gifted": 107,
+		"date": "21/04/2022"
+	},
+	{
+		"gifter": 253,
+		"book": 59,
+		"gifted": 288,
+		"date": "02/03/2020"
+	},
+	{
+		"gifter": 403,
+		"book": 158,
+		"gifted": 184,
+		"date": "15/02/2020"
+	},
+	{
+		"gifter": 343,
+		"book": 14,
+		"gifted": 383,
+		"date": "26/05/2021"
+	},
+	{
+		"gifter": 416,
+		"book": 63,
+		"gifted": 454,
+		"date": "08/04/2020"
+	},
+	{
+		"gifter": 496,
+		"book": 159,
+		"gifted": 3,
+		"date": "07/12/2022"
+	},
+	{
+		"gifter": 298,
+		"book": 248,
+		"gifted": 155,
+		"date": "08/01/2020"
+	},
+	{
+		"gifter": 441,
+		"book": 241,
+		"gifted": 118,
+		"date": "20/09/2021"
+	},
+	{
+		"gifter": 2,
+		"book": 436,
+		"gifted": 438,
+		"date": "28/11/2019"
+	},
+	{
+		"gifter": 85,
+		"book": 70,
+		"gifted": 213,
+		"date": "02/05/2023"
+	},
+	{
+		"gifter": 480,
+		"book": 119,
+		"gifted": 282,
+		"date": "14/01/2023"
+	},
+	{
+		"gifter": 250,
+		"book": 287,
+		"gifted": 290,
+		"date": "30/05/2019"
+	},
+	{
+		"gifter": 394,
+		"book": 44,
+		"gifted": 497,
+		"date": "25/11/2020"
+	},
+	{
+		"gifter": 9,
+		"book": 453,
+		"gifted": 318,
+		"date": "20/09/2021"
+	},
+	{
+		"gifter": 30,
+		"book": 253,
+		"gifted": 115,
+		"date": "19/05/2020"
+	},
+	{
+		"gifter": 418,
+		"book": 367,
+		"gifted": 482,
+		"date": "28/11/2019"
+	},
+	{
+		"gifter": 16,
+		"book": 111,
+		"gifted": 108,
+		"date": "15/09/2020"
+	},
+	{
+		"gifter": 140,
+		"book": 423,
+		"gifted": 225,
+		"date": "04/06/2021"
+	},
+	{
+		"gifter": 91,
+		"book": 38,
+		"gifted": 226,
+		"date": "26/07/2019"
+	},
+	{
+		"gifter": 52,
+		"book": 90,
+		"gifted": 287,
+		"date": "31/05/2021"
+	},
+	{
+		"gifter": 36,
+		"book": 194,
+		"gifted": 324,
+		"date": "02/08/2022"
+	},
+	{
+		"gifter": 415,
+		"book": 124,
+		"gifted": 307,
+		"date": "26/08/2021"
+	},
+	{
+		"gifter": 185,
+		"book": 99,
+		"gifted": 299,
+		"date": "26/02/2022"
+	},
+	{
+		"gifter": 189,
+		"book": 495,
+		"gifted": 187,
+		"date": "18/08/2019"
+	},
+	{
+		"gifter": 260,
+		"book": 12,
+		"gifted": 98,
+		"date": "06/08/2022"
+	},
+	{
+		"gifter": 338,
+		"book": 179,
+		"gifted": 366,
+		"date": "12/09/2021"
+	},
+	{
+		"gifter": 128,
+		"book": 260,
+		"gifted": 75,
+		"date": "22/05/2021"
+	},
+	{
+		"gifter": 171,
+		"book": 162,
+		"gifted": 177,
+		"date": "21/02/2020"
+	},
+	{
+		"gifter": 345,
+		"book": 287,
+		"gifted": 312,
+		"date": "05/09/2021"
+	},
+	{
+		"gifter": 161,
+		"book": 409,
+		"gifted": 199,
+		"date": "09/02/2022"
+	},
+	{
+		"gifter": 377,
+		"book": 475,
+		"gifted": 188,
+		"date": "21/07/2019"
+	},
+	{
+		"gifter": 467,
+		"book": 423,
+		"gifted": 254,
+		"date": "18/06/2022"
+	},
+	{
+		"gifter": 13,
+		"book": 335,
+		"gifted": 256,
+		"date": "15/08/2020"
+	},
+	{
+		"gifter": 324,
+		"book": 134,
+		"gifted": 372,
+		"date": "18/12/2021"
+	},
+	{
+		"gifter": 321,
+		"book": 202,
+		"gifted": 92,
+		"date": "29/06/2021"
+	},
+	{
+		"gifter": 496,
+		"book": 253,
+		"gifted": 264,
+		"date": "30/07/2022"
+	},
+	{
+		"gifter": 494,
+		"book": 144,
+		"gifted": 68,
+		"date": "13/12/2021"
+	},
+	{
+		"gifter": 402,
+		"book": 27,
+		"gifted": 366,
+		"date": "08/04/2023"
+	},
+	{
+		"gifter": 309,
+		"book": 247,
+		"gifted": 127,
+		"date": "09/01/2023"
+	},
+	{
+		"gifter": 212,
+		"book": 435,
+		"gifted": 240,
+		"date": "16/07/2019"
+	},
+	{
+		"gifter": 476,
+		"book": 496,
+		"gifted": 217,
+		"date": "02/07/2021"
+	},
+	{
+		"gifter": 9,
+		"book": 159,
+		"gifted": 442,
+		"date": "25/01/2023"
+	},
+	{
+		"gifter": 419,
+		"book": 125,
+		"gifted": 153,
+		"date": "07/09/2021"
+	},
+	{
+		"gifter": 144,
+		"book": 437,
+		"gifted": 328,
+		"date": "26/07/2021"
+	},
+	{
+		"gifter": 481,
+		"book": 21,
+		"gifted": 340,
+		"date": "22/03/2023"
+	},
+	{
+		"gifter": 429,
+		"book": 437,
+		"gifted": 79,
+		"date": "11/03/2021"
+	},
+	{
+		"gifter": 336,
+		"book": 193,
+		"gifted": 362,
+		"date": "05/04/2020"
+	},
+	{
+		"gifter": 496,
+		"book": 444,
+		"gifted": 349,
+		"date": "12/06/2019"
+	},
+	{
+		"gifter": 38,
+		"book": 385,
+		"gifted": 246,
+		"date": "07/12/2019"
+	},
+	{
+		"gifter": 302,
+		"book": 424,
+		"gifted": 21,
+		"date": "14/11/2019"
+	},
+	{
+		"gifter": 297,
+		"book": 388,
+		"gifted": 330,
+		"date": "03/09/2020"
+	},
+	{
+		"gifter": 330,
+		"book": 487,
+		"gifted": 437,
+		"date": "20/10/2019"
+	},
+	{
+		"gifter": 219,
+		"book": 340,
+		"gifted": 140,
+		"date": "03/06/2021"
+	},
+	{
+		"gifter": 97,
+		"book": 423,
+		"gifted": 336,
+		"date": "05/08/2020"
+	},
+	{
+		"gifter": 18,
+		"book": 102,
+		"gifted": 38,
+		"date": "13/06/2020"
+	},
+	{
+		"gifter": 437,
+		"book": 187,
+		"gifted": 222,
+		"date": "18/07/2019"
+	},
+	{
+		"gifter": 372,
+		"book": 125,
+		"gifted": 367,
+		"date": "09/12/2020"
+	},
+	{
+		"gifter": 286,
+		"book": 289,
+		"gifted": 278,
+		"date": "17/02/2023"
+	},
+	{
+		"gifter": 32,
+		"book": 139,
+		"gifted": 371,
+		"date": "26/06/2019"
+	},
+	{
+		"gifter": 42,
+		"book": 413,
+		"gifted": 207,
+		"date": "06/05/2023"
+	},
+	{
+		"gifter": 220,
+		"book": 427,
+		"gifted": 28,
+		"date": "18/09/2021"
+	},
+	{
+		"gifter": 391,
+		"book": 112,
+		"gifted": 123,
+		"date": "05/04/2022"
+	},
+	{
+		"gifter": 336,
+		"book": 444,
+		"gifted": 468,
+		"date": "12/12/2019"
+	},
+	{
+		"gifter": 35,
+		"book": 171,
+		"gifted": 371,
+		"date": "15/11/2019"
+	},
+	{
+		"gifter": 370,
+		"book": 191,
+		"gifted": 70,
+		"date": "01/01/2022"
+	},
+	{
+		"gifter": 37,
+		"book": 44,
+		"gifted": 313,
+		"date": "15/01/2022"
+	},
+	{
+		"gifter": 182,
+		"book": 353,
+		"gifted": 365,
+		"date": "24/08/2021"
+	},
+	{
+		"gifter": 226,
+		"book": 54,
+		"gifted": 84,
+		"date": "01/05/2021"
+	},
+	{
+		"gifter": 204,
+		"book": 305,
+		"gifted": 427,
+		"date": "23/03/2020"
+	},
+	{
+		"gifter": 152,
+		"book": 28,
+		"gifted": 280,
+		"date": "19/08/2019"
+	},
+	{
+		"gifter": 361,
+		"book": 106,
+		"gifted": 403,
+		"date": "17/02/2022"
+	},
+	{
+		"gifter": 241,
+		"book": 313,
+		"gifted": 257,
+		"date": "21/12/2020"
+	},
+	{
+		"gifter": 270,
+		"book": 305,
+		"gifted": 458,
+		"date": "21/02/2020"
+	},
+	{
+		"gifter": 115,
+		"book": 445,
+		"gifted": 465,
+		"date": "31/05/2019"
+	},
+	{
+		"gifter": 33,
+		"book": 424,
+		"gifted": 64,
+		"date": "27/03/2023"
+	},
+	{
+		"gifter": 436,
+		"book": 349,
+		"gifted": 163,
+		"date": "15/07/2020"
+	},
+	{
+		"gifter": 310,
+		"book": 18,
+		"gifted": 285,
+		"date": "21/12/2019"
+	},
+	{
+		"gifter": 190,
+		"book": 58,
+		"gifted": 116,
+		"date": "27/03/2022"
+	},
+	{
+		"gifter": 86,
+		"book": 450,
+		"gifted": 343,
+		"date": "25/08/2021"
+	},
+	{
+		"gifter": 227,
+		"book": 155,
+		"gifted": 493,
+		"date": "15/06/2021"
+	},
+	{
+		"gifter": 96,
+		"book": 391,
+		"gifted": 115,
+		"date": "23/12/2020"
+	},
+	{
+		"gifter": 113,
+		"book": 39,
+		"gifted": 406,
+		"date": "29/10/2020"
+	},
+	{
+		"gifter": 102,
+		"book": 434,
+		"gifted": 186,
+		"date": "01/06/2019"
+	},
+	{
+		"gifter": 299,
+		"book": 221,
+		"gifted": 198,
+		"date": "03/09/2022"
+	},
+	{
+		"gifter": 376,
+		"book": 109,
+		"gifted": 460,
+		"date": "15/12/2019"
+	},
+	{
+		"gifter": 305,
+		"book": 217,
+		"gifted": 332,
+		"date": "13/06/2019"
+	},
+	{
+		"gifter": 384,
+		"book": 124,
+		"gifted": 207,
+		"date": "17/10/2019"
+	},
+	{
+		"gifter": 239,
+		"book": 103,
+		"gifted": 413,
+		"date": "23/04/2023"
+	},
+	{
+		"gifter": 368,
+		"book": 199,
+		"gifted": 296,
+		"date": "08/03/2023"
+	},
+	{
+		"gifter": 74,
+		"book": 249,
+		"gifted": 72,
+		"date": "25/10/2020"
+	},
+	{
+		"gifter": 207,
+		"book": 54,
+		"gifted": 112,
+		"date": "06/10/2020"
+	},
+	{
+		"gifter": 91,
+		"book": 378,
+		"gifted": 78,
+		"date": "24/03/2021"
+	},
+	{
+		"gifter": 119,
+		"book": 358,
+		"gifted": 456,
+		"date": "25/11/2020"
+	},
+	{
+		"gifter": 270,
+		"book": 433,
+		"gifted": 263,
+		"date": "27/05/2022"
+	},
+	{
+		"gifter": 169,
+		"book": 103,
+		"gifted": 246,
+		"date": "04/01/2020"
+	},
+	{
+		"gifter": 219,
+		"book": 340,
+		"gifted": 103,
+		"date": "09/03/2023"
+	},
+	{
+		"gifter": 375,
+		"book": 258,
+		"gifted": 111,
+		"date": "22/04/2021"
+	},
+	{
+		"gifter": 165,
+		"book": 172,
+		"gifted": 150,
+		"date": "25/08/2022"
+	},
+	{
+		"gifter": 140,
+		"book": 306,
+		"gifted": 65,
+		"date": "02/05/2021"
+	},
+	{
+		"gifter": 257,
+		"book": 371,
+		"gifted": 111,
+		"date": "15/01/2022"
+	},
+	{
+		"gifter": 402,
+		"book": 55,
+		"gifted": 48,
+		"date": "10/06/2022"
+	},
+	{
+		"gifter": 218,
+		"book": 344,
+		"gifted": 325,
+		"date": "05/05/2020"
+	},
+	{
+		"gifter": 411,
+		"book": 204,
+		"gifted": 128,
+		"date": "07/10/2022"
+	},
+	{
+		"gifter": 439,
+		"book": 413,
+		"gifted": 119,
+		"date": "28/12/2019"
+	},
+	{
+		"gifter": 36,
+		"book": 443,
+		"gifted": 62,
+		"date": "25/04/2020"
+	},
+	{
+		"gifter": 399,
+		"book": 41,
+		"gifted": 194,
+		"date": "18/04/2022"
+	},
+	{
+		"gifter": 236,
+		"book": 191,
+		"gifted": 48,
+		"date": "04/12/2021"
+	},
+	{
+		"gifter": 123,
+		"book": 234,
+		"gifted": 151,
+		"date": "18/01/2023"
+	},
+	{
+		"gifter": 475,
+		"book": 227,
+		"gifted": 437,
+		"date": "17/01/2022"
+	},
+	{
+		"gifter": 230,
+		"book": 37,
+		"gifted": 226,
+		"date": "12/03/2020"
+	},
+	{
+		"gifter": 12,
+		"book": 249,
+		"gifted": 37,
+		"date": "02/01/2022"
+	},
+	{
+		"gifter": 133,
+		"book": 205,
+		"gifted": 150,
+		"date": "03/11/2021"
+	},
+	{
+		"gifter": 273,
+		"book": 180,
+		"gifted": 295,
+		"date": "25/06/2021"
+	},
+	{
+		"gifter": 314,
+		"book": 415,
+		"gifted": 181,
+		"date": "20/06/2020"
+	},
+	{
+		"gifter": 64,
+		"book": 323,
+		"gifted": 70,
+		"date": "24/02/2021"
+	},
+	{
+		"gifter": 317,
+		"book": 417,
+		"gifted": 160,
+		"date": "31/08/2019"
+	},
+	{
+		"gifter": 218,
+		"book": 202,
+		"gifted": 429,
+		"date": "04/04/2022"
+	},
+	{
+		"gifter": 400,
+		"book": 284,
+		"gifted": 334,
+		"date": "18/08/2019"
+	},
+	{
+		"gifter": 350,
+		"book": 54,
+		"gifted": 207,
+		"date": "03/02/2023"
+	},
+	{
+		"gifter": 335,
+		"book": 10,
+		"gifted": 391,
+		"date": "06/12/2022"
+	},
+	{
+		"gifter": 398,
+		"book": 134,
+		"gifted": 97,
+		"date": "08/06/2022"
+	},
+	{
+		"gifter": 197,
+		"book": 92,
+		"gifted": 369,
+		"date": "07/06/2020"
+	},
+	{
+		"gifter": 407,
+		"book": 108,
+		"gifted": 215,
+		"date": "01/04/2023"
+	},
+	{
+		"gifter": 58,
+		"book": 241,
+		"gifted": 358,
+		"date": "22/07/2022"
+	},
+	{
+		"gifter": 445,
+		"book": 444,
+		"gifted": 484,
+		"date": "26/03/2023"
+	},
+	{
+		"gifter": 410,
+		"book": 308,
+		"gifted": 79,
+		"date": "17/05/2020"
+	},
+	{
+		"gifter": 39,
+		"book": 119,
+		"gifted": 245,
+		"date": "18/06/2022"
+	},
+	{
+		"gifter": 178,
+		"book": 413,
+		"gifted": 390,
+		"date": "02/10/2021"
+	},
+	{
+		"gifter": 238,
+		"book": 462,
+		"gifted": 33,
+		"date": "30/07/2022"
+	},
+	{
+		"gifter": 446,
+		"book": 166,
+		"gifted": 194,
+		"date": "21/02/2021"
+	},
+	{
+		"gifter": 187,
+		"book": 158,
+		"gifted": 158,
+		"date": "28/01/2023"
+	},
+	{
+		"gifter": 311,
+		"book": 9,
+		"gifted": 356,
+		"date": "17/08/2019"
+	},
+	{
+		"gifter": 427,
+		"book": 229,
+		"gifted": 494,
+		"date": "14/02/2022"
+	},
+	{
+		"gifter": 323,
+		"book": 234,
+		"gifted": 334,
+		"date": "16/03/2023"
+	},
+	{
+		"gifter": 140,
+		"book": 207,
+		"gifted": 220,
+		"date": "05/09/2019"
+	},
+	{
+		"gifter": 179,
+		"book": 95,
+		"gifted": 14,
+		"date": "12/07/2021"
+	},
+	{
+		"gifter": 363,
+		"book": 91,
+		"gifted": 330,
+		"date": "04/07/2021"
+	},
+	{
+		"gifter": 252,
+		"book": 396,
+		"gifted": 377,
+		"date": "16/09/2020"
+	},
+	{
+		"gifter": 280,
+		"book": 481,
+		"gifted": 186,
+		"date": "20/03/2023"
+	},
+	{
+		"gifter": 249,
+		"book": 238,
+		"gifted": 310,
+		"date": "28/05/2021"
+	},
+	{
+		"gifter": 35,
+		"book": 307,
+		"gifted": 450,
+		"date": "21/08/2022"
+	},
+	{
+		"gifter": 460,
+		"book": 433,
+		"gifted": 461,
+		"date": "26/09/2020"
+	},
+	{
+		"gifter": 170,
+		"book": 138,
+		"gifted": 417,
+		"date": "14/09/2022"
+	},
+	{
+		"gifter": 193,
+		"book": 360,
+		"gifted": 160,
+		"date": "26/02/2021"
+	},
+	{
+		"gifter": 467,
+		"book": 142,
+		"gifted": 69,
+		"date": "08/05/2022"
+	},
+	{
+		"gifter": 304,
+		"book": 303,
+		"gifted": 79,
+		"date": "08/05/2023"
+	},
+	{
+		"gifter": 139,
+		"book": 220,
+		"gifted": 288,
+		"date": "16/12/2020"
+	},
+	{
+		"gifter": 300,
+		"book": 41,
+		"gifted": 383,
+		"date": "05/04/2023"
+	},
+	{
+		"gifter": 415,
+		"book": 381,
+		"gifted": 139,
+		"date": "05/07/2019"
+	},
+	{
+		"gifter": 95,
+		"book": 114,
+		"gifted": 475,
+		"date": "19/06/2021"
+	},
+	{
+		"gifter": 440,
+		"book": 48,
+		"gifted": 464,
+		"date": "28/04/2022"
+	},
+	{
+		"gifter": 97,
+		"book": 207,
+		"gifted": 98,
+		"date": "23/01/2022"
+	},
+	{
+		"gifter": 100,
+		"book": 454,
+		"gifted": 244,
+		"date": "23/12/2019"
+	},
+	{
+		"gifter": 284,
+		"book": 17,
+		"gifted": 7,
+		"date": "25/09/2020"
+	},
+	{
+		"gifter": 59,
+		"book": 35,
+		"gifted": 126,
+		"date": "11/01/2021"
+	},
+	{
+		"gifter": 34,
+		"book": 25,
+		"gifted": 208,
+		"date": "04/02/2020"
+	},
+	{
+		"gifter": 411,
+		"book": 269,
+		"gifted": 251,
+		"date": "16/06/2021"
+	},
+	{
+		"gifter": 471,
+		"book": 150,
+		"gifted": 436,
+		"date": "27/08/2019"
+	},
+	{
+		"gifter": 13,
+		"book": 216,
+		"gifted": 341,
+		"date": "31/12/2019"
+	},
+	{
+		"gifter": 474,
+		"book": 168,
+		"gifted": 360,
+		"date": "08/03/2022"
+	},
+	{
+		"gifter": 86,
+		"book": 207,
+		"gifted": 157,
+		"date": "22/04/2020"
+	},
+	{
+		"gifter": 43,
+		"book": 75,
+		"gifted": 167,
+		"date": "10/11/2021"
+	},
+	{
+		"gifter": 122,
+		"book": 407,
+		"gifted": 83,
+		"date": "18/11/2021"
+	},
+	{
+		"gifter": 310,
+		"book": 150,
+		"gifted": 147,
+		"date": "23/02/2023"
+	},
+	{
+		"gifter": 120,
+		"book": 179,
+		"gifted": 138,
+		"date": "02/07/2021"
+	},
+	{
+		"gifter": 13,
+		"book": 358,
+		"gifted": 474,
+		"date": "01/11/2021"
+	},
+	{
+		"gifter": 202,
+		"book": 271,
+		"gifted": 82,
+		"date": "06/10/2021"
+	},
+	{
+		"gifter": 71,
+		"book": 372,
+		"gifted": 274,
+		"date": "15/05/2023"
+	},
+	{
+		"gifter": 318,
+		"book": 344,
+		"gifted": 25,
+		"date": "27/09/2022"
+	},
+	{
+		"gifter": 116,
+		"book": 436,
+		"gifted": 17,
+		"date": "31/08/2020"
+	},
+	{
+		"gifter": 422,
+		"book": 421,
+		"gifted": 472,
+		"date": "29/03/2020"
+	},
+	{
+		"gifter": 289,
+		"book": 267,
+		"gifted": 482,
+		"date": "21/02/2023"
+	},
+	{
+		"gifter": 241,
+		"book": 405,
+		"gifted": 497,
+		"date": "30/11/2020"
+	},
+	{
+		"gifter": 180,
+		"book": 102,
+		"gifted": 47,
+		"date": "10/06/2021"
+	},
+	{
+		"gifter": 208,
+		"book": 362,
+		"gifted": 238,
+		"date": "01/08/2020"
+	},
+	{
+		"gifter": 46,
+		"book": 164,
+		"gifted": 413,
+		"date": "14/04/2022"
+	},
+	{
+		"gifter": 350,
+		"book": 22,
+		"gifted": 42,
+		"date": "01/10/2020"
+	},
+	{
+		"gifter": 37,
+		"book": 248,
+		"gifted": 7,
+		"date": "13/05/2020"
+	},
+	{
+		"gifter": 157,
+		"book": 245,
+		"gifted": 431,
+		"date": "14/05/2020"
+	},
+	{
+		"gifter": 92,
+		"book": 461,
+		"gifted": 280,
+		"date": "03/06/2020"
+	},
+	{
+		"gifter": 340,
+		"book": 264,
+		"gifted": 160,
+		"date": "01/05/2021"
+	},
+	{
+		"gifter": 399,
+		"book": 298,
+		"gifted": 304,
+		"date": "20/03/2020"
+	},
+	{
+		"gifter": 248,
+		"book": 311,
+		"gifted": 302,
+		"date": "28/04/2020"
+	},
+	{
+		"gifter": 223,
+		"book": 384,
+		"gifted": 463,
+		"date": "06/06/2021"
+	},
+	{
+		"gifter": 40,
+		"book": 63,
+		"gifted": 398,
+		"date": "06/11/2019"
+	},
+	{
+		"gifter": 340,
+		"book": 109,
+		"gifted": 99,
+		"date": "02/01/2021"
+	},
+	{
+		"gifter": 491,
+		"book": 124,
+		"gifted": 60,
+		"date": "07/11/2021"
+	},
+	{
+		"gifter": 168,
+		"book": 23,
+		"gifted": 347,
+		"date": "12/12/2019"
+	},
+	{
+		"gifter": 71,
+		"book": 97,
+		"gifted": 177,
+		"date": "26/04/2022"
+	},
+	{
+		"gifter": 270,
+		"book": 113,
+		"gifted": 215,
+		"date": "22/09/2019"
+	},
+	{
+		"gifter": 64,
+		"book": 339,
+		"gifted": 41,
+		"date": "08/04/2021"
+	},
+	{
+		"gifter": 113,
+		"book": 230,
+		"gifted": 284,
+		"date": "10/10/2020"
+	},
+	{
+		"gifter": 3,
+		"book": 129,
+		"gifted": 144,
+		"date": "26/11/2020"
+	},
+	{
+		"gifter": 324,
+		"book": 357,
+		"gifted": 408,
+		"date": "08/09/2022"
+	},
+	{
+		"gifter": 179,
+		"book": 142,
+		"gifted": 309,
+		"date": "08/03/2020"
+	},
+	{
+		"gifter": 148,
+		"book": 267,
+		"gifted": 466,
+		"date": "12/02/2022"
+	},
+	{
+		"gifter": 269,
+		"book": 483,
+		"gifted": 322,
+		"date": "15/04/2022"
+	},
+	{
+		"gifter": 256,
+		"book": 80,
+		"gifted": 439,
+		"date": "28/04/2023"
+	},
+	{
+		"gifter": 369,
+		"book": 305,
+		"gifted": 13,
+		"date": "31/03/2021"
+	},
+	{
+		"gifter": 185,
+		"book": 232,
+		"gifted": 55,
+		"date": "01/09/2019"
+	},
+	{
+		"gifter": 115,
+		"book": 352,
+		"gifted": 298,
+		"date": "12/12/2020"
+	},
+	{
+		"gifter": 77,
+		"book": 92,
+		"gifted": 179,
+		"date": "22/12/2022"
+	},
+	{
+		"gifter": 421,
+		"book": 371,
+		"gifted": 273,
+		"date": "26/07/2020"
+	},
+	{
+		"gifter": 488,
+		"book": 392,
+		"gifted": 466,
+		"date": "08/11/2019"
+	},
+	{
+		"gifter": 262,
+		"book": 9,
+		"gifted": 262,
+		"date": "26/01/2022"
+	},
+	{
+		"gifter": 226,
+		"book": 479,
+		"gifted": 244,
+		"date": "15/03/2023"
+	},
+	{
+		"gifter": 101,
+		"book": 168,
+		"gifted": 81,
+		"date": "25/02/2022"
+	},
+	{
+		"gifter": 116,
+		"book": 464,
+		"gifted": 35,
+		"date": "20/06/2021"
+	},
+	{
+		"gifter": 146,
+		"book": 5,
+		"gifted": 271,
+		"date": "26/07/2022"
+	},
+	{
+		"gifter": 171,
+		"book": 400,
+		"gifted": 354,
+		"date": "13/08/2022"
+	},
+	{
+		"gifter": 90,
+		"book": 471,
+		"gifted": 76,
+		"date": "07/04/2023"
+	},
+	{
+		"gifter": 163,
+		"book": 371,
+		"gifted": 470,
+		"date": "17/12/2019"
+	},
+	{
+		"gifter": 481,
+		"book": 420,
+		"gifted": 103,
+		"date": "29/09/2020"
+	},
+	{
+		"gifter": 359,
+		"book": 416,
+		"gifted": 106,
+		"date": "05/07/2022"
+	},
+	{
+		"gifter": 420,
+		"book": 461,
+		"gifted": 267,
+		"date": "23/04/2021"
+	},
+	{
+		"gifter": 150,
+		"book": 219,
+		"gifted": 124,
+		"date": "26/11/2022"
+	},
+	{
+		"gifter": 301,
+		"book": 297,
+		"gifted": 236,
+		"date": "29/10/2021"
+	},
+	{
+		"gifter": 321,
+		"book": 12,
+		"gifted": 289,
+		"date": "08/10/2020"
+	},
+	{
+		"gifter": 8,
+		"book": 462,
+		"gifted": 234,
+		"date": "01/01/2020"
+	},
+	{
+		"gifter": 1,
+		"book": 251,
+		"gifted": 409,
+		"date": "01/08/2020"
+	},
+	{
+		"gifter": 450,
+		"book": 101,
+		"gifted": 406,
+		"date": "09/05/2021"
+	},
+	{
+		"gifter": 326,
+		"book": 453,
+		"gifted": 292,
+		"date": "12/01/2020"
+	},
+	{
+		"gifter": 283,
+		"book": 211,
+		"gifted": 325,
+		"date": "07/07/2022"
+	},
+	{
+		"gifter": 289,
+		"book": 355,
+		"gifted": 368,
+		"date": "10/11/2020"
+	},
+	{
+		"gifter": 263,
+		"book": 459,
+		"gifted": 97,
+		"date": "24/01/2022"
+	},
+	{
+		"gifter": 358,
+		"book": 192,
+		"gifted": 278,
+		"date": "09/04/2022"
+	},
+	{
+		"gifter": 65,
+		"book": 188,
+		"gifted": 338,
+		"date": "15/06/2019"
+	},
+	{
+		"gifter": 32,
+		"book": 228,
+		"gifted": 45,
+		"date": "20/12/2019"
+	},
+	{
+		"gifter": 224,
+		"book": 9,
+		"gifted": 204,
+		"date": "17/09/2019"
+	},
+	{
+		"gifter": 488,
+		"book": 436,
+		"gifted": 455,
+		"date": "16/05/2021"
+	},
+	{
+		"gifter": 27,
+		"book": 309,
+		"gifted": 372,
+		"date": "14/12/2020"
+	},
+	{
+		"gifter": 397,
+		"book": 303,
+		"gifted": 218,
+		"date": "21/04/2021"
+	},
+	{
+		"gifter": 89,
+		"book": 416,
+		"gifted": 380,
+		"date": "18/01/2022"
+	},
+	{
+		"gifter": 139,
+		"book": 197,
+		"gifted": 328,
+		"date": "02/08/2019"
+	},
+	{
+		"gifter": 72,
+		"book": 445,
+		"gifted": 348,
+		"date": "25/01/2020"
+	},
+	{
+		"gifter": 212,
+		"book": 437,
+		"gifted": 314,
+		"date": "30/12/2019"
+	},
+	{
+		"gifter": 345,
+		"book": 351,
+		"gifted": 104,
+		"date": "02/06/2020"
+	},
+	{
+		"gifter": 61,
+		"book": 239,
+		"gifted": 14,
+		"date": "27/02/2023"
+	},
+	{
+		"gifter": 452,
+		"book": 417,
+		"gifted": 479,
+		"date": "05/01/2022"
+	},
+	{
+		"gifter": 179,
+		"book": 372,
+		"gifted": 429,
+		"date": "20/01/2022"
+	},
+	{
+		"gifter": 142,
+		"book": 347,
+		"gifted": 150,
+		"date": "01/08/2022"
+	},
+	{
+		"gifter": 381,
+		"book": 233,
+		"gifted": 266,
+		"date": "05/06/2021"
+	},
+	{
+		"gifter": 89,
+		"book": 1,
+		"gifted": 329,
+		"date": "20/04/2021"
+	},
+	{
+		"gifter": 336,
+		"book": 492,
+		"gifted": 486,
+		"date": "16/09/2022"
+	},
+	{
+		"gifter": 407,
+		"book": 316,
+		"gifted": 419,
+		"date": "22/06/2020"
+	},
+	{
+		"gifter": 209,
+		"book": 228,
+		"gifted": 237,
+		"date": "16/10/2021"
+	},
+	{
+		"gifter": 284,
+		"book": 136,
+		"gifted": 61,
+		"date": "18/09/2019"
+	},
+	{
+		"gifter": 479,
+		"book": 147,
+		"gifted": 170,
+		"date": "09/04/2023"
+	},
+	{
+		"gifter": 251,
+		"book": 449,
+		"gifted": 359,
+		"date": "12/09/2021"
+	},
+	{
+		"gifter": 125,
+		"book": 184,
+		"gifted": 209,
+		"date": "22/04/2020"
+	},
+	{
+		"gifter": 134,
+		"book": 211,
+		"gifted": 160,
+		"date": "13/05/2022"
+	},
+	{
+		"gifter": 302,
+		"book": 312,
+		"gifted": 480,
+		"date": "25/10/2022"
+	},
+	{
+		"gifter": 296,
+		"book": 250,
+		"gifted": 215,
+		"date": "30/04/2021"
+	},
+	{
+		"gifter": 441,
+		"book": 3,
+		"gifted": 158,
+		"date": "06/07/2022"
+	},
+	{
+		"gifter": 419,
+		"book": 279,
+		"gifted": 51,
+		"date": "13/09/2019"
+	},
+	{
+		"gifter": 147,
+		"book": 91,
+		"gifted": 275,
+		"date": "05/03/2022"
+	},
+	{
+		"gifter": 233,
+		"book": 51,
+		"gifted": 195,
+		"date": "30/09/2021"
+	},
+	{
+		"gifter": 65,
+		"book": 446,
+		"gifted": 6,
+		"date": "14/01/2021"
+	},
+	{
+		"gifter": 316,
+		"book": 57,
+		"gifted": 402,
+		"date": "21/04/2023"
+	},
+	{
+		"gifter": 139,
+		"book": 184,
+		"gifted": 460,
+		"date": "12/10/2019"
+	},
+	{
+		"gifter": 329,
+		"book": 38,
+		"gifted": 449,
+		"date": "29/01/2020"
+	},
+	{
+		"gifter": 170,
+		"book": 391,
+		"gifted": 72,
+		"date": "22/06/2019"
+	},
+	{
+		"gifter": 31,
+		"book": 281,
+		"gifted": 343,
+		"date": "31/07/2021"
+	},
+	{
+		"gifter": 266,
+		"book": 24,
+		"gifted": 499,
+		"date": "11/05/2023"
+	},
+	{
+		"gifter": 334,
+		"book": 262,
+		"gifted": 140,
+		"date": "21/01/2022"
+	},
+	{
+		"gifter": 196,
+		"book": 15,
+		"gifted": 461,
+		"date": "24/06/2020"
+	},
+	{
+		"gifter": 45,
+		"book": 103,
+		"gifted": 89,
+		"date": "02/01/2021"
+	},
+	{
+		"gifter": 398,
+		"book": 107,
+		"gifted": 105,
+		"date": "15/08/2019"
+	},
+	{
+		"gifter": 316,
+		"book": 67,
+		"gifted": 115,
+		"date": "21/02/2020"
+	},
+	{
+		"gifter": 178,
+		"book": 266,
+		"gifted": 317,
+		"date": "13/03/2023"
+	},
+	{
+		"gifter": 318,
+		"book": 500,
+		"gifted": 219,
+		"date": "29/09/2020"
+	},
+	{
+		"gifter": 21,
+		"book": 196,
+		"gifted": 477,
+		"date": "03/02/2023"
+	},
+	{
+		"gifter": 190,
+		"book": 12,
+		"gifted": 345,
+		"date": "29/04/2020"
+	},
+	{
+		"gifter": 380,
+		"book": 23,
+		"gifted": 313,
+		"date": "27/05/2022"
+	},
+	{
+		"gifter": 348,
+		"book": 169,
+		"gifted": 155,
+		"date": "30/04/2021"
+	},
+	{
+		"gifter": 118,
+		"book": 68,
+		"gifted": 250,
+		"date": "16/12/2020"
+	},
+	{
+		"gifter": 347,
+		"book": 94,
+		"gifted": 344,
+		"date": "23/03/2023"
+	},
+	{
+		"gifter": 275,
+		"book": 26,
+		"gifted": 359,
+		"date": "24/10/2022"
+	},
+	{
+		"gifter": 419,
+		"book": 381,
+		"gifted": 137,
+		"date": "01/08/2020"
+	},
+	{
+		"gifter": 184,
+		"book": 411,
+		"gifted": 113,
+		"date": "20/04/2023"
+	},
+	{
+		"gifter": 131,
+		"book": 60,
+		"gifted": 333,
+		"date": "04/11/2019"
+	},
+	{
+		"gifter": 159,
+		"book": 4,
+		"gifted": 18,
+		"date": "20/01/2021"
+	},
+	{
+		"gifter": 334,
+		"book": 345,
+		"gifted": 134,
+		"date": "24/02/2022"
+	},
+	{
+		"gifter": 245,
+		"book": 328,
+		"gifted": 221,
+		"date": "06/11/2021"
+	},
+	{
+		"gifter": 187,
+		"book": 7,
+		"gifted": 186,
+		"date": "12/06/2021"
+	},
+	{
+		"gifter": 210,
+		"book": 500,
+		"gifted": 249,
+		"date": "19/01/2023"
+	},
+	{
+		"gifter": 227,
+		"book": 86,
+		"gifted": 173,
+		"date": "14/03/2022"
+	},
+	{
+		"gifter": 238,
+		"book": 287,
+		"gifted": 82,
+		"date": "18/08/2021"
+	},
+	{
+		"gifter": 45,
+		"book": 145,
+		"gifted": 314,
+		"date": "02/05/2021"
+	},
+	{
+		"gifter": 144,
+		"book": 50,
+		"gifted": 428,
+		"date": "30/12/2020"
+	},
+	{
+		"gifter": 47,
+		"book": 130,
+		"gifted": 468,
+		"date": "08/08/2021"
+	},
+	{
+		"gifter": 232,
+		"book": 441,
+		"gifted": 212,
+		"date": "23/03/2021"
+	},
+	{
+		"gifter": 317,
+		"book": 156,
+		"gifted": 137,
+		"date": "27/11/2021"
+	},
+	{
+		"gifter": 35,
+		"book": 268,
+		"gifted": 305,
+		"date": "07/02/2022"
+	},
+	{
+		"gifter": 186,
+		"book": 413,
+		"gifted": 92,
+		"date": "13/01/2021"
+	},
+	{
+		"gifter": 352,
+		"book": 456,
+		"gifted": 106,
+		"date": "30/10/2019"
+	},
+	{
+		"gifter": 161,
+		"book": 451,
+		"gifted": 128,
+		"date": "19/10/2020"
+	},
+	{
+		"gifter": 289,
+		"book": 500,
+		"gifted": 11,
+		"date": "15/12/2020"
+	},
+	{
+		"gifter": 332,
+		"book": 65,
+		"gifted": 58,
+		"date": "21/08/2019"
+	},
+	{
+		"gifter": 177,
+		"book": 431,
+		"gifted": 55,
+		"date": "19/05/2023"
+	},
+	{
+		"gifter": 277,
+		"book": 24,
+		"gifted": 75,
+		"date": "19/02/2022"
+	},
+	{
+		"gifter": 379,
+		"book": 435,
+		"gifted": 159,
+		"date": "28/02/2022"
+	},
+	{
+		"gifter": 143,
+		"book": 334,
+		"gifted": 71,
+		"date": "25/08/2022"
+	},
+	{
+		"gifter": 406,
+		"book": 154,
+		"gifted": 360,
+		"date": "10/04/2022"
+	},
+	{
+		"gifter": 285,
+		"book": 65,
+		"gifted": 486,
+		"date": "13/08/2021"
+	},
+	{
+		"gifter": 368,
+		"book": 234,
+		"gifted": 476,
+		"date": "15/10/2020"
+	},
+	{
+		"gifter": 123,
+		"book": 180,
+		"gifted": 342,
+		"date": "22/08/2020"
+	},
+	{
+		"gifter": 113,
+		"book": 176,
+		"gifted": 356,
+		"date": "15/04/2022"
+	},
+	{
+		"gifter": 43,
+		"book": 451,
+		"gifted": 310,
+		"date": "25/12/2022"
+	},
+	{
+		"gifter": 318,
+		"book": 222,
+		"gifted": 173,
+		"date": "08/04/2023"
+	},
+	{
+		"gifter": 29,
+		"book": 375,
+		"gifted": 105,
+		"date": "25/08/2021"
+	},
+	{
+		"gifter": 384,
+		"book": 373,
+		"gifted": 355,
+		"date": "19/01/2020"
+	},
+	{
+		"gifter": 497,
+		"book": 16,
+		"gifted": 5,
+		"date": "01/01/2022"
+	},
+	{
+		"gifter": 118,
+		"book": 46,
+		"gifted": 197,
+		"date": "18/04/2021"
+	},
+	{
+		"gifter": 99,
+		"book": 286,
+		"gifted": 223,
+		"date": "12/01/2021"
+	},
+	{
+		"gifter": 10,
+		"book": 413,
+		"gifted": 131,
+		"date": "29/07/2022"
+	},
+	{
+		"gifter": 418,
+		"book": 55,
+		"gifted": 491,
+		"date": "30/08/2019"
+	},
+	{
+		"gifter": 44,
+		"book": 414,
+		"gifted": 356,
+		"date": "19/06/2020"
+	},
+	{
+		"gifter": 237,
+		"book": 241,
+		"gifted": 450,
+		"date": "12/04/2020"
+	},
+	{
+		"gifter": 242,
+		"book": 395,
+		"gifted": 372,
+		"date": "24/06/2019"
+	},
+	{
+		"gifter": 27,
+		"book": 6,
+		"gifted": 231,
+		"date": "28/01/2023"
+	},
+	{
+		"gifter": 172,
+		"book": 409,
+		"gifted": 191,
+		"date": "09/04/2020"
+	},
+	{
+		"gifter": 209,
+		"book": 149,
+		"gifted": 421,
+		"date": "10/01/2023"
+	},
+	{
+		"gifter": 188,
+		"book": 61,
+		"gifted": 164,
+		"date": "18/03/2020"
+	}
+]

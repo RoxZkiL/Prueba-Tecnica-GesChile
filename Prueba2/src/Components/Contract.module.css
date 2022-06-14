@@ -1,0 +1,124 @@
+@import url('https://fonts.googleapis.com/css2?family=Staatliches&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Goldman&display=swap');
+
+.parent {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    grid-template-rows: repeat(5, 1fr);
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+    box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.4);
+    height: 84vh;
+    }
+
+    .parentdiv { grid-area: 2 / 2 / 5 / 6;
+        padding-left: 10%;
+        padding-right: 10%;
+     }
+
+    .secondDiv {
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        grid-template-rows: repeat(4, 1fr);
+        grid-column-gap: 0px;
+        grid-row-gap: 0px;
+        background-image: url("https://img.freepik.com/free-vector/simple-white-grey-abstract-background_13364-84.jpg?w=1380");
+        border-radius: 20px 20px 20px 20px;
+        opacity: 0.7;
+        height: 450px;
+    }
+
+    .div1 { grid-area: 1 / 1 / 2 / 4;
+        font-family: 'Black Ops One', cursive;
+        text-align: center;
+        padding-top: 2%;
+        color: rgb(0, 0, 0);
+        font-size: 24px;
+        /* text-shadow: 2px 2px 2px rgb(0, 15, 228); */
+    }
+
+    .div2 { 
+        grid-area: 2 / 1 / 5 / 4;
+        text-align: center;
+        padding-top: 3%;
+        padding-right: 4%;
+        font-size: 22px;
+        font-family: 'Goldman';
+        text-align: justify;
+        padding-left: 8%;
+        font-weight: 600;
+        color: black;
+     }
+
+    .div3 { 
+        grid-area: 1 / 4 / 4 / 5;
+        font-family: 'Staatliches', cursive;
+        font-size: 20px;
+        text-align: center; 
+    }
+    .div4 { 
+        grid-area: 4 / 4 / 5 / 5;
+        text-align: center; 
+    }
+
+        .h3 {
+            color: rgb(0, 8, 255);
+            font-weight: 800;
+            font-size: 26px;
+        }
+
+        .h4 {
+            font-size: 22px;
+            color: black;
+        }
+
+        .h5 {
+            color: red;
+            text-decoration: line-through;
+            font-size: 20px;
+        }
+
+    .image {
+        object-fit: cover;
+        width: 100%;
+        height: 84vh;
+        position: absolute;
+        z-index: -1;
+      }
+
+      .button {
+        cursor: pointer;
+        font-family: 'Spline Sans Mono', monospace;
+        width: 150px;
+        padding: 15px 25px;
+        border: unset;
+        border-radius: 15px;
+        color: #212121;
+        z-index: 1;
+        background: #e8e8e8;
+        font-size: 18px;
+        -webkit-box-shadow: 4px 8px 19px -3px rgba(0, 0, 0, 0.27);
+        box-shadow: 4px 8px 19px -3px rgba(0,0,0,0.60);
+        transition: all 250ms;
+        overflow: hidden;
+       }
+       
+       .button:hover {
+        color: #6f6f6f;
+       }
+    
+       @media screen and (max-width: 960px) {
+        .parentdiv {
+            width: 390px;
+        }
+
+        .div2 {
+            padding-right: 6%;
+            font-size: 18px;
+        }
+
+        .secondDiv {
+            height: 530px;
+        }
+    }
