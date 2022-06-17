@@ -1,6 +1,6 @@
 import React from "react";
 import style from "./Header.module.css";
-import image from "./media/imageCover.jpg";
+import image from ".././media/imageCover.jpg";
 import { Link } from "react-router-dom";
 
 export const Header = () => {

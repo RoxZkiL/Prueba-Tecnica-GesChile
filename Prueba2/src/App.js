@@ -1,7 +1,7 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import Home from "./Components/Home";
-import Form from "./Components/Form";
-import Acknowledgment from "./Components/Acknowledgment";
+import Home from "./Components/Home/Home";
+import Form from "./Components/Form/Form";
+import Acknowledgment from "./Components/Acknowledgment/Acknowledgment";
 
 function App() {
   return (

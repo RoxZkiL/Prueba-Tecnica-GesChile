@@ -1,5 +1,5 @@
 import React from "react";
-import image from "./media/imageContract.jpg";
+import image from ".././media/imageContract.jpg";
 import style from "./Contract.module.css";
 import { Link } from "react-router-dom";
 

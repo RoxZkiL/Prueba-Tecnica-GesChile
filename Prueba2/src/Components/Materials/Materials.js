@@ -1,7 +1,7 @@
 import React from "react";
 import MaterialsNavBar from "./MaterialsNavBar";
 import style from "./Materials.module.css";
-import image from "./media/imageMaterials.png";
+import image from ".././media/imageMaterials.png";
 import MaterialsTable from "./MaterialsTable";
 
 const Materials = () => {

@@ -1,6 +1,6 @@
 import React from "react";
-import video from "./media/video.mp4";
-import image from "./media/imageDescription.jpg";
+import video from ".././media/video.mp4";
+import image from ".././media/imageDescription.jpg";
 import style from "./Description.module.css";
 
 const Description = () => {

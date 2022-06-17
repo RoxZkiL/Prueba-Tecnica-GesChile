@@ -1,11 +1,11 @@
 import React from "react";
-import style from "./Form.module.css";
-import image from "./media/image.png";
-import FormField from "./FormField";
-import image2 from "./media/imageFrom.png";
-import video from "./media/video2.mp4";
+import style from "./Acknowledgment.module.css";
+import image from ".././media/image.png";
+import image2 from ".././media/imageFrom.png";
+import video from ".././media/video3.mp4";
+import AcknowledgmentText from "./AcknowledgmentText";
 
-const Form = () => {
+const Acknowledgment = () => {
   return (
     <div className={style.parent}>
       <img className={style.image} src={image2} alt="not found" />
@@ -29,11 +29,11 @@ const Form = () => {
           Your browser does not support HTML video.
         </video>
       </div>
-      <div className={style.div4}>
-        <FormField />
+      <div className={style.div3}>
+        <AcknowledgmentText />
       </div>
     </div>
   );
 };
 
-export default Form;
+export default Acknowledgment;
